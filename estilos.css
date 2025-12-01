@@ -3,3 +3,6 @@ h1 {
     background: yellow;
     text-align: center;
 }
+body {
+    margin: 40px;
+}
